@@ -1,1 +1,2 @@
-Tentativa de macro pra calcular a área do contorno selecionado
+## Objetivo:
+Macro pra calcular a área do contorno selecionado
